@@ -36,6 +36,14 @@ The application requires following installations to operate:
 
 -> requests
 
+# Technology used
+Python 3.7.6
+
+# Project Setup Instruction
+
+git clone repository
+``
+
 
 
 
