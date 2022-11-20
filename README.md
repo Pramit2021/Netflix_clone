@@ -23,6 +23,16 @@ The user can perform the following functions using this clone:
 2. A user can view a description of the movie and its current rating.
 3. A user can watch a trailer of a movie or TV show.
 
+# Installation/Setup instruction
+The application requires following installations to operate:
+-> pip
+-> gunicorn
+-> django
+-> postgresql
+-> requests
+
+
+
 
 
 
