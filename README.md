@@ -25,10 +25,15 @@ The user can perform the following functions using this clone:
 
 # Installation/Setup instruction
 The application requires following installations to operate:
+
 -> pip
+
 -> gunicorn
+
 -> django
+
 -> postgresql
+
 -> requests
 
 
