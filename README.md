@@ -41,8 +41,42 @@ Python 3.7.6
 
 # Project Setup Instruction
 
-git clone repository
-``
+-> git clone repository
+
+`https://github.com/Pramit2021/Netflix_clone`
+
+-> Set your project directory on command prompt and type the following command for making a virtual environment
+
+`makevirtualenv myapp1`
+
+-> install django using following command
+
+`pip install django`
+
+-> Start creating project using the following command
+
+`django-admin startproject netflixclone`
+
+-> Set the project directory on command prompt using the command
+
+`cd netflixclone`
+
+-> Creat another subsidary of project using the command
+
+`python manage.py startapp core`
+
+-> Make migrations using the command
+
+`python manage.py makemigrations`
+
+-> Migrate DB using the command
+
+`python manage.py migrate`
+
+-> Run the application using the command
+
+`python manage.py runserver`
+
 
 
 
