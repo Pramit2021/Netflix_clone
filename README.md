@@ -73,7 +73,7 @@ Python 3.7.6
 
 `python manage.py migrate`
 
--> Run the application using the command
+-> Run the server of the application using the command
 
 `python manage.py runserver`
 
