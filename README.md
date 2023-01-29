@@ -6,16 +6,13 @@ This is a django application that displays movies from the netflix & youtube api
 
 
 # Netflix on tv
-![Netflix_tv](https://user-images.githubusercontent.com/93142399/202912685-28f7cfba-2453-492d-9677-8a72d77e9124.JPG)
+![image](https://user-images.githubusercontent.com/93142399/215325012-d068887d-e4cf-49b5-bd22-0bf5873e8d66.png)
 
 # Netflix on mobile
-![Netflix_mobile](https://user-images.githubusercontent.com/93142399/202912710-b870152f-c876-422f-b667-93c9473dc2f6.JPG)
+![image](https://user-images.githubusercontent.com/93142399/215325062-9dfd026e-46bf-4013-ae3b-68e48a453334.png)
 
 # Netflix kids page
-![Netflix_kid](https://user-images.githubusercontent.com/93142399/202912608-9a4a476b-141f-4ee7-afa3-fb08d9b2fc9f.JPG)
-
-# Netflix account page
-![Netflix_account](https://user-images.githubusercontent.com/93142399/202912653-d0fb6504-ebce-4b44-88a2-e72b69fc5b6b.JPG)
+![image](https://user-images.githubusercontent.com/93142399/215325129-39d3184d-24e9-4215-9025-8119b00a9deb.png)
 
 
 # Requirements
