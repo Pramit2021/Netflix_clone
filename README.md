@@ -2,7 +2,8 @@
 This is a django application that displays movies from the netflix & youtube api's.
 
 # Getting started with netflix
-![Netflix_getstarted](https://user-images.githubusercontent.com/93142399/202911951-b706bd2a-4db5-4bc2-b13a-02d3f24eb886.JPG)
+![image](https://user-images.githubusercontent.com/93142399/215324920-83bdec5a-c2c7-41b9-b048-e6aafc05213e.png)
+
 
 # Netflix on tv
 ![Netflix_tv](https://user-images.githubusercontent.com/93142399/202912685-28f7cfba-2453-492d-9677-8a72d77e9124.JPG)
