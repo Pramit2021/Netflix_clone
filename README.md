@@ -34,8 +34,8 @@ The application requires following installations to operate:
 
 -> requests
 
-# Technology used
-Python (3.7.6), django framework, YouTube API, TMDB API
+# Built With
+`Python` `django framework` `Youtube API` `TMDB API`
 
 # Project Setup Instruction
 
